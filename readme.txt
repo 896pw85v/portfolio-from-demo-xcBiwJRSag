@@ -6,6 +6,9 @@ also considering restructuring the whole website.
 
 add a different color scheme first maybe
 
+2026/03/19
+Uploaded to Github. What even is the point of a portfolio website when we have Github. 
+
 2025-11-13
 1. added sorting visualiser, with dialog, css related, and js
 2. got rid of the header, the links are unnecessary
